@@ -2,11 +2,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Sumudu Nisansala
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Coders+.&hearts;++;Softwear+Developer,;Computer+Science+Student,;Cybersecurity+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs+.&hearts;"></a> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Coders+.&hearts;++;Software+Developer,;Software+Tester,;Active+Learner/Researcher,;Love+to+learn+new+stuffs+.&hearts;"></a> 
 </p></h1>
 <p align="center">
   <h3 align="center">About me</h3>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=sandaruwan-98&label=Profile%20views&color=0e75b6&style=flat" alt="SumuduNisansala" /></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=NisansalaAmarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="SumuduNisansala" /></p>
 </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
@@ -28,8 +28,8 @@
 
 <center><h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3></center>
 <p align="center">
-  <a href="https://linkedin.com/in/nipun-sandaruwan" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="nipun sandaruwan" height="60" width="60" />
+  <a href="https://www.linkedin.com/in/nisansala-amarasinghe/" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Sumudu Nisansala" height="60" width="60" />
   </a>
 </p>
 
@@ -116,14 +116,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=sandaruwan-98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=NisansalaAmarasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SumuduNisansala" src="https://github-readme-streak-stats.herokuapp.com?user=sandaruwan-98&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SumuduNisansala" src="https://github-readme-streak-stats.herokuapp.com?user=NisansalaAmarasinghe&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandaruwan-98&layout=compact&langs_count=8&theme=algolia"/>
+  <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NisansalaAmarasinghe&layout=compact&langs_count=8&theme=algolia"/>
   
   </td>
 </tr>
