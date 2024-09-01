@@ -8,9 +8,6 @@
   <h3 align="center">About me</h3>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=NisansalaAmarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="SumuduNisansala" /></p>
 </p>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
-</a>
 
 - 🌱 I’m currently Working on <strong>Mobile Application based School Children Transpotation Service System with IoT</strong>
 
