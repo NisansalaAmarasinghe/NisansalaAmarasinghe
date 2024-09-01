@@ -20,8 +20,6 @@
 - 📫 How to reach me **<strong>sumudunisansala999@gmail.com</strong></p>**
 </br>
 </br>
-</br>
-</br>
 
 <center><h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3></center>
 <p align="center">
@@ -31,6 +29,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+</br>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="60" height="60"/>
