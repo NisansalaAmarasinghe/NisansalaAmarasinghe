@@ -9,13 +9,13 @@
   <p align="center"><img src="https://komarev.com/ghpvc/?username=NisansalaAmarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="SumuduNisansala" /></p>
 </p>
 
-- 🌱 I’m currently working on <strong>Mobile Application based School Children Transportation Service System with IoT</strong>
+- 🌱 I’m currently working on <strong>Mobile Application based School Children Transportation Service System with IoT.</strong>
 
-- 🤝 I’m available for Software Developing and Testing.
+- 🤝 I’m available for <strong>Software Developing</strong> and <strong>Testing.</strong>
 
-- 🌱 I’m currently learning <strong>Software Quality Assuarance </strong> and <strong>Full-Stack Developments. </strong>
+- 🌱 I’m currently learning <strong>Software Quality Assurance </strong> and <strong>Full-Stack Developments. </strong>
 
-- 💬 Ask me about <strong>Python / C++ / Java .</strong></p>
+- 💬 Ask me about <strong>Python / C++ / Java.</strong></p>
 
 - 📫 How to reach me **<strong>sumudunisansala999@gmail.com</strong></p>**
 </br>
