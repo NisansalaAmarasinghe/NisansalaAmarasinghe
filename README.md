@@ -2,18 +2,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Sumudu Nisansala
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Coders+.&hearts;++;Software+Developer,;Software+Tester,;Active+Learner/Researcher,;Love+to+learn+new+stuffs+.&hearts;"></a> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Coders+&hearts;++;Software+Developer,;Software+Tester,;Active+Learner/Researcher,;Love+to+learn+new+stuffs+&hearts;"></a> 
 </p></h1>
 <p align="center">
   <h3 align="center">About me</h3>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=NisansalaAmarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="SumuduNisansala" /></p>
 </p>
 
-- 🌱 I’m currently Working on <strong>Mobile Application based School Children Transpotation Service System with IoT</strong>
+- 🌱 I’m currently working on <strong>Mobile Application based School Children Transportation Service System with IoT</strong>
 
-- 🤝 I’m available for developing and testing.
+- 🤝 I’m available for Software Developing and Testing.
 
-- 🌱 I’m currently learning <strong>Software Quality Assuarance </strong> and <strong>Ful-Stack development. </strong>
+- 🌱 I’m currently learning <strong>Software Quality Assuarance </strong> and <strong>Full-Stack Developments. </strong>
 
 - 💬 Ask me about <strong>Python / C++ / Java .</strong></p>
 
