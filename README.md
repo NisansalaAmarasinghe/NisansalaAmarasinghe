@@ -26,6 +26,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Sumudu Nisansala" height="60" width="60" />
   </a>
 </p>
+</br>
 
 <h3 align="center">Languages and Tools:</h3>
 </br>
