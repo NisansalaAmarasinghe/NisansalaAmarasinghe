@@ -13,7 +13,7 @@
 
 - 🤝 I’m available for <strong>Full Stack Developing</strong> and <strong>Project Management.</strong>
 
-- 🌱 I’m currently learning <strong>Software Quality Assurance </strong> and <strong>Full-Stack Developments. </strong>
+- 🌱 I’m currently learning <strong>Software Quality Assurance </strong>.
 
 - 💬 Ask me about <strong> Laravel / Java Script / Type Script / Tailwind CSS / PHP / Github Controlling.</strong></p>
 
