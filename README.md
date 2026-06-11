@@ -39,10 +39,6 @@
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/> 
 </a> &nbsp&nbsp
 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<img src="https://angular.io/assets/images/logos/laravel/laravel.svg" alt="laravel" width="60" height="60"/> 
-</a> &nbsp&nbsp
-
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> 
 </a> &nbsp&nbsp
