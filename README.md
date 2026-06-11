@@ -9,13 +9,13 @@
   <p align="center"><img src="https://komarev.com/ghpvc/?username=NisansalaAmarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="SumuduNisansala" /></p>
 </p>
 
-- 🌱 I’m currently working on <strong>Mobile Application based School Children Transportation Service System with IoT.</strong>
+- 🌱 I’m currently working as a <strong>Full Stack Developer/ Software Service Support Assistant </strong> in Janet Group (Pvt) Ltd. 
 
-- 🤝 I’m available for <strong>Software Developing</strong> and <strong>Testing.</strong>
+- 🤝 I’m available for <strong>Full Stack Developing</strong> and <strong>Project Managing.</strong>
 
 - 🌱 I’m currently learning <strong>Software Quality Assurance </strong> and <strong>Full-Stack Developments. </strong>
 
-- 💬 Ask me about <strong>Python / C++ / Java.</strong></p>
+- 💬 Ask me about <strong> Laravel / Java Script / Type Script / Tailwind CSS / PHP / Github Controlling.</strong></p>
 
 - 📫 How to reach me **<strong>sumudunisansala999@gmail.com</strong></p>**
 </br>
