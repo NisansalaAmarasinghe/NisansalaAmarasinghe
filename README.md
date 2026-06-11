@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working as a <strong>Full Stack Developer/ Software Service Support Assistant </strong> in Janet Group (Pvt) Ltd. 
 
-- 🤝 I’m available for <strong>Full Stack Developing</strong> and <strong>Project Managing.</strong>
+- 🤝 I’m available for <strong>Full Stack Developing</strong> and <strong>Project Management.</strong>
 
 - 🌱 I’m currently learning <strong>Software Quality Assurance </strong> and <strong>Full-Stack Developments. </strong>
 
